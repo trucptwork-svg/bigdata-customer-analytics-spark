@@ -1,0 +1,10 @@
+# Bỏ qua thư mục dữ liệu
+data/
+
+# Bỏ qua các model đã lưu
+models/
+
+# Bỏ qua các file rác của hệ điều hành và Python
+.DS_Store
+__pycache__/
+*.pyc
