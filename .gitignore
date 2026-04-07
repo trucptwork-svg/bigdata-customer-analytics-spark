@@ -1,10 +1,34 @@
-# Bỏ qua thư mục dữ liệu
+# 1. Bỏ qua thư mục dữ liệu
 data/
+temp/
 
-# Bỏ qua các model đã lưu
+# 2. Bỏ qua các model đã lưu
 models/
 
-# Bỏ qua các file rác của hệ điều hành và Python
-.DS_Store
+# 3. Python & Môi trường ảo
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# 4. Jupyter Notebook 
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# 5. Hệ điều hành & IDE
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# 6. Các file logs của Spark
+derby.log
+metastore_db/
+spark-warehouse/
