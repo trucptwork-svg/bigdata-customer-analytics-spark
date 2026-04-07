@@ -28,7 +28,7 @@ Luồng xử lý dữ liệu và huấn luyện mô hình được tổ chức b
 4. **`04_Clustering_FN_PL.ipynb` (Customer Segmentation):** Phác họa chân dung khách hàng bằng phân tích RFM (Recency, Frequency, Monetary) kết hợp các thuật toán phân cụm tiên tiến như K-Means, Bisecting K-Means và Gaussian Mixture Model (GMM).
 5. **`05_Recommendation_FN_PL.ipynb` (Personalized Recommendation):** Áp dụng thuật toán Collaborative Filtering (Alternating Least Squares - ALS) phân tích các tương tác ngầm (implicit feedback) để xây dựng hệ thống gợi ý sản phẩm mang tính cá nhân hóa cao.
 6. **`06_Frequent_Pattern_Mining_FN_PL.ipynb` (Cross-selling Strategy):** Khai phá tập phổ biến bằng FP-Growth và thiết lập luật kết hợp (Association Rules), tạo ra các kịch bản gợi ý mua kèm (thường được mua cùng nhau) tự động và hiệu quả.
-7. **`07_WEB_GRADIO_FN.ipynb` (Web UI Deployment):** Tích hợp toàn bộ các mô hình Machine Learning đã huấn luyện thành một ứng dụng web hoàn chỉnh với các tab chức năng chuyên biệt (Dự đoán, Phân cụm khách hàng, Gợi ý cá nhân hóa, Phân tích giỏ hàng), cho phép người dùng phi kỹ thuật dễ dàng thao tác và khai thác giá trị từ dữ liệu.
+7. **`07_WEB_GRADIO_FN_N11.ipynb` (Web UI Deployment):** Tích hợp toàn bộ các mô hình Machine Learning đã huấn luyện thành một ứng dụng web hoàn chỉnh với các tab chức năng chuyên biệt (Dự đoán, Phân cụm khách hàng, Gợi ý cá nhân hóa, Phân tích giỏ hàng), cho phép người dùng phi kỹ thuật dễ dàng thao tác và khai thác giá trị từ dữ liệu.
 ## Hướng dẫn Triển khai (Getting Started)
 
 **Bước 1: Sao chép kho lưu trữ (Clone the repository)**
